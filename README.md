@@ -1,3 +1,8 @@
+奥点云-微视评源码官方下载地址：http://wx.aodianyun.com/wsp/assets/wpd_1.0.zip
+===
+
+安装指南
+---
 1、将安装包上传至您的服务器，打开浏览器输入“您的域名+安装包路径”，按照网页提示进行安装。
 如：将安装包传至服务器“wpd”目录，域名为：test.wsp.com，则在浏览器打开：http://test.wsp.com/wpd
 
