@@ -130,14 +130,14 @@ function checkRewrite($url){
               <div class="controls mt5">
               	<p>频道列表：
 				  <?php
-                    $dir = SYSTEM_HOST.'/layout/livestream/1?install=1';
+                    $dir = SYSTEM_HOST.'/layout/livestream/1&install=1';
 					echo $dir;
                   ?> - - - - - 
                   <?php echo checkRewrite($dir); ?>
                 </p>
               	<p>活动详情：
 				  <?php
-                    $dir = SYSTEM_HOST.'/layout/party/1?install=1';
+                    $dir = SYSTEM_HOST.'/layout/party/1&install=1';
 					echo $dir;
                   ?> - - - - - 
                   <?php echo checkRewrite($dir); ?>
